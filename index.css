@@ -1,0 +1,33 @@
+.head {
+  color: black;
+}
+.blue-Con {
+  background-color: blue;
+  margin: 20px;
+}
+.green-Con {
+  background-color: green;
+  margin: 20px;
+}
+.yellow-Con {
+  background-color: yellow;
+  margin: 20px;
+}
+.red-Con {
+  background-color: red;
+  margin: 20px;
+}
+.card {
+  display: flex;
+  margin-left: auto;
+  justify-content: flex-start;
+  align-items: center;
+}
+.each {
+  height: 15px;
+  width: 15px;
+  margin-left: 15px;
+}
+.mid {
+  margin: 20px;
+}
